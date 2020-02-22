@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="DockerFile" type="Dockerfile" />
       <mapping pattern="Dokcerfile" type="PLAIN_TEXT" />
+      <mapping pattern="LineMessage.java" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
