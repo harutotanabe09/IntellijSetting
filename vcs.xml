@@ -6,6 +6,10 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="harutotanabe09@gmail.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://enjp.backlog.jp" />
+          <option name="userName" value="haruto_tanabe" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
