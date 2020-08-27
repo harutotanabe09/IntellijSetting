@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="DockerFile" type="Dockerfile" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="Dokcerfile" type="PLAIN_TEXT" />
       <mapping pattern="LineMessage.java" type="PLAIN_TEXT" />
     </extensionMap>
